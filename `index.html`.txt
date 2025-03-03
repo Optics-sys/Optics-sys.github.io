@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Updates</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Movie Updates</h1>
+        <p>Your go-to source for movie news and release dates!</p>
+    </header>
+
+    <section id="upcoming-movies">
+        <h2>Upcoming Movies</h2>
+        <ul>
+            <li><strong>Movie 1</strong> - March 15, 2025</li>
+            <li><strong>Movie 2</strong> - April 10, 2025</li>
+            <li><strong>Movie 3</strong> - May 20, 2025</li>
+        </ul>
+    </section>
+
+    <section id="news">
+        <h2>Latest News</h2>
+        <div class="news-post">
+            <h3>New Spider-Man Movie Announced</h3>
+            <p>Release date: November 2025. Check out the teaser!</p>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
